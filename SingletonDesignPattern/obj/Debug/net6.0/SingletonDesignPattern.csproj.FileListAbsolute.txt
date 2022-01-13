@@ -19,7 +19,6 @@ C:\Github\DesignPatters\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignP
 C:\Github\DesignPatters\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.dll
 C:\Github\DesignPatters\SingletonDesignPattern\bin\Debug\net6.0\ref\SingletonDesignPattern.dll
 C:\Github\DesignPatters\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.pdb
-C:\Github\DesignPatters\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.csproj.AssemblyReference.cache
 C:\Github\DesignPatters\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
 C:\Github\DesignPatters\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.AssemblyInfoInputs.cache
 C:\Github\DesignPatters\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.AssemblyInfo.cs
