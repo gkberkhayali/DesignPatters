@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0KPL6joVC9UB+tOin3hnqjQljDOaxZnhADHunVNImqixc4QyqsJQe7kVExdpwjw66wnpGX/qg5/hseEHmCvrvA==",
+  "dgSpecHash": "ln5cNREYDCQOYEpjiF943mbp83sNAntI3KgnkTzLvO2m+uCQLXstGbxQqoNuOkDKs0v3jFTB4ENl19dG8dwYjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gokbe\\source\\repos\\DesignPatters\\SingletonDesignPattern\\SingletonDesignPattern.csproj",
+  "projectFilePath": "C:\\Github\\DesignPatters\\SingletonDesignPattern\\SingletonDesignPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
