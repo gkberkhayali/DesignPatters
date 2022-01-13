@@ -15,6 +15,8 @@ namespace SingletonDesignPattern.Helpers
 
         }
 
+        //These are the two ways of creating singleton instance.
+
         public static LogHelper GetInstance()
         {
             if(_logHelper == null)
@@ -23,6 +25,18 @@ namespace SingletonDesignPattern.Helpers
             }
 
             return _logHelper;
+        }
+
+        public static LogHelper Instance
+        {
+            get
+            {
+                if(_logHelper == null)
+                {
+                    _logHelper = new LogHelper();
+                }
+                return _logHelper;
+            }
         }
 
         public void WriteInformativeLog (string log)

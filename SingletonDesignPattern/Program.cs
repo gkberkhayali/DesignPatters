@@ -25,6 +25,19 @@ else
     Console.WriteLine("Objects are different");
 }
 
+//Another implementation of getting instance through c#
+
+var obj3 = LogHelper.Instance;
+
+
+if (long.Equals(obj1.GetHashCode(), obj3.GetHashCode()))
+{
+    Console.WriteLine("Objects are identical");
+}
+else
+{
+    Console.WriteLine("Objects are different");
+}
 
 
 
