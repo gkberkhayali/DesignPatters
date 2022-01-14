@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8800f580-7533-4757-93e4-0aa039a47548": {
+      "ProjectGuid": "8800f580-7533-4757-93e4-0aa039a47548",
+      "DisplayName": "SingletonDesignPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
