@@ -5,7 +5,17 @@
       "ProjectGuid": "8800f580-7533-4757-93e4-0aa039a47548",
       "DisplayName": "SingletonDesignPattern",
       "ColorIndex": 0
+    },
+    "3a03176c-63a2-4782-bf70-c14b57ceec8c": {
+      "ProjectGuid": "3a03176c-63a2-4782-bf70-c14b57ceec8c",
+      "DisplayName": "RepositoryPatternCoreWebApi",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
