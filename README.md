@@ -1,2 +1,2 @@
 # DesignPatters
-DesignPattern implementations with C#
+DesignPattern PoC implementations with C#
